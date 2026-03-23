@@ -1,16 +1,24 @@
-## Hi there 👋
+# Marcelo's Professional Profile
 
-<!--
-**MarceloNH-IT/MarceloNH-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bio
+Dedicated networking professional with experience in various technology fields and a passion for learning and implementing network solutions.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Networking with Cisco CCNA/CCST in progress
+- Proficient in Packet Tracer, VLANs, OSPF, DHCP
+- Windows troubleshooting and system administration
+- Familiar with GitHub and Coursera
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Developed Cisco Packet Tracer Labs
+- Completed various Python scripts for automation and analysis
+
+## Contact
+- Email: marcelonh86@gmail.com
+
+## Location
+- Balvanera CABA, Argentina
+
+## Experience
+- Nextel Cablevisión/Flow (2014-2017)
+  - Worked on various networking projects and support tasks.
