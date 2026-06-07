@@ -50,7 +50,17 @@
 
 ## 📜 Certificaciones en progreso
 - Cisco CCNA / CCST  
-- Microsoft Azure Fundamentals (en estudio)  
+- Microsoft Azure Fundamentals (en estudio)
+- ## 🚀 Proyectos Destacados
+- [Cisco Packet Tracer Labs](https://github.com/MarceloNH-IT/packet-tracer-labs)  
+  Laboratorios prácticos de redes con configuración de VLANs, OSPF y DHCP.  
+
+- [Python Automation Scripts](https://github.com/MarceloNH-IT/python-scripts)  
+  Scripts para automatizar tareas de gestión y análisis de datos.  
+
+- [IT Soporte Técnico](https://github.com/MarceloNH-IT/it-support)  
+  Documentación y herramientas para troubleshooting en Windows y Linux, guías de instalación y resolución de problemas comunes.
+
 
 ## 📊 Estadísticas
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarceloNH-IT&show_icons=true&locale=en&layout=compact&theme=radical" alt="MarceloNH-IT" /></p>
