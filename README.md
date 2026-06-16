@@ -74,7 +74,7 @@
 
 ## 📷 Foto
 
-![Imagen](FotoNOC.jpg)
+![Imagen](20250912_172139.jpg)
 
 
 Agradezco el tiempo de quienes visitan mi portafolio en GitHub. Cada laboratorio refleja mi compromiso con el aprendizaje continuo y la práctica aplicada en IT, redes y administración de sistemas. Mi objetivo es demostrar que puedo diagnosticar, resolver y documentar incidentes de manera profesional, utilizando máquinas virtuales y configuraciones de red.
